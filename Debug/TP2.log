@@ -1,0 +1,4 @@
+﻿  funcao.c
+C:\Engenharia Informática\2º Ano\IIA\Trabalhos Práticos\TP2\AndréLopes_2019139754_SamuelTavares_2019126468\TP2\TP2\funcao.c(78,45): warning C4047: 'function': 'int (*)[3]' differs in levels of indirection from 'int **'
+C:\Engenharia Informática\2º Ano\IIA\Trabalhos Práticos\TP2\AndréLopes_2019139754_SamuelTavares_2019126468\TP2\TP2\funcao.c(78,42): warning C4024: 'calcula_fit': different types for formal and actual parameter 2
+  TP2.vcxproj -> C:\Engenharia Informática\2º Ano\IIA\Trabalhos Práticos\TP2\AndréLopes_2019139754_SamuelTavares_2019126468\TP2\Debug\TP2.exe
