@@ -2,4 +2,4 @@
  Implementing several methods of optimization 
 
 
-## Trabalho de Inteligência Artificial 2020/2021 
+## Project made for 'Inteligência Artificial' at ISEC 2020/2021 
